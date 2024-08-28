@@ -8,6 +8,7 @@
 
 - Create a MongoDB database from the Json data given.
 - Use MERN Stack to design and develop a dashboard. -
+  
 For charts or visualizations, you can use any of the following:
 
 o D3.js (highly recommended)
