@@ -1,27 +1,46 @@
 # Data Visualization Dashboard Project
 
+
 **Hosted Project Link**:https://anjali-gupta-wasserstoff-fullstack-intern-task.vercel.app/
+
 **Video Link:**  https://www.youtube.com/watch?v=giTUJ-Vn6xw
+
 
 - Create a MongoDB database from the Json data given.
 - Use MERN Stack to design and develop a dashboard. -
 For charts or visualizations, you can use any of the following:
+
 o D3.js (highly recommended)
+
 o chart.js
+
 o fusioncharts
+
 o plotly.js
+
 o google charts
+
 o highcharts
+
 o etc.
 
+
 Important variables to be visualized
+
 - Intensity
+ 
 - Likelihood
+  
 - Relevance
+  
 - Year
+  
 - Country
+  
 - Topics
+  
 - Region
+  
 
 Filters in the dashboard
 - Add end year filter in the dashboard
